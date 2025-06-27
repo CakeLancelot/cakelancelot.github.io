@@ -1,4 +1,3 @@
-# @CakeLancelot
 Putting the pro in procrastination.
 
 Links to my stuff below..
